@@ -11,6 +11,9 @@
         li{
             a{
                     padding: 0 0.3rem;
+                    &:hover{
+                        color: red;
+                    }
             }
         }
     }

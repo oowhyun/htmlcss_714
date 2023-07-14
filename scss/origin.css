@@ -5,4 +5,7 @@
 }
 #hd ul li a {
   padding: 0 0.3rem;
+}
+#hd ul li a:hover {
+  color: red;
 }/*# sourceMappingURL=origin.css.map */
